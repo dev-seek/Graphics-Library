@@ -1,0 +1,10 @@
+*.png
+!line.png
+!circle.png
+!rectangle.png
+*.o
+*.wasm
+example
+build/
+stb/
+\\
